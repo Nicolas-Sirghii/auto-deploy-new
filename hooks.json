@@ -1,0 +1,7 @@
+[
+  {
+    "id": "deploy",
+    "execute-command": "/home/nicolas_mailbox100/auto-deploy-new/deploy.sh",
+    "command-working-directory": "/home/nicolas_mailbox100/auto-deploy-new"
+  }
+]
